@@ -6,3 +6,9 @@ Java 17 and Node 16 container
 
 ## DockerHub
 [DockerHub Link](https://hub.docker.com/r/geppyz/jdk17-node16-ubuntu-focal/tags)
+
+## Github repository
+[Github Link](https://github.com/geppyz/jdk17-node16-ubuntu-focal/)
+
+## Docker pull
+docker pull geppyz/jdk17-node16-ubuntu-focal
